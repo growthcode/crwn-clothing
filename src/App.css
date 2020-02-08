@@ -3,7 +3,12 @@ body {
   padding: 20px 60px;
 }
 
-.App {
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/*.App {
   text-align: center;
 }
 
@@ -41,3 +46,4 @@ body {
     transform: rotate(360deg);
   }
 }
+*/
